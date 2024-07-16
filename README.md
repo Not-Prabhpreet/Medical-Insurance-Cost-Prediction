@@ -98,9 +98,8 @@ Training data: R squared value: 0.751
 Test data: R squared value: 0.744
 
 # Future Work
-Streamlit App: A Streamlit app is currently under development to provide an interactive user interface for predicting medical insurance costs. The app will be dockerized and hosted on Heroku or AWS.
-Deployment: Future updates will include detailed instructions for deploying the app.
-
+Deployment:
+Currently working on a streamlit web app, I plan on dockerizing it and hosting it on AWS or Heroku
 # Contact:
 If you have any questions feel free to contact me at ppsingh@mun.ca
 
